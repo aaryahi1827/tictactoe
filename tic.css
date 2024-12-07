@@ -1,0 +1,46 @@
+
+
+.tac{
+   height: 70px;
+   width: 70px;
+   border: 5px solid rgb(39, 92, 89);
+   background-color: rgb(153, 236, 202);
+   margin: 10px;
+   justify-self: center;
+   justify-content: center;
+   font-size: 50px;
+   align-items: center;
+   display: flex;
+}
+
+.first{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 130px;
+
+}
+
+.second{
+    display: flex;
+    margin-left: 500px;
+}
+
+.third{
+    display: flex;
+    margin-left: 500px;
+}
+
+h1{
+    font-size: 50px;
+    background-color:  rgb(17, 184, 226);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#winner{
+    font-size: 40px;
+    background-color: rgb(165, 228, 225);
+    font-family: cursive;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
